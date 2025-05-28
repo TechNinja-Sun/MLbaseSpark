@@ -1,4 +1,4 @@
-# 🚀 MLinSpark：基于 Spark 的机器学习平台
+# 🚀 MLbaseSpark：基于 Spark 的机器学习平台
 
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Java](https://img.shields.io/badge/java-1.8-blue)
