@@ -1,7 +1,3 @@
-以下是为你的 Spark + Java + Python 可视化混合项目编写的完整 `README.md`，内容涵盖项目结构、设计思路、模块说明和图表辅助。你可以直接放入项目根目录。
-
----
-
 # 🚀 MLinSpark：基于 Spark 的机器学习平台
 
 ![License](https://img.shields.io/badge/license-MIT-green)
