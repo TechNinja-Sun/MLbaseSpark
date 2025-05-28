@@ -1,0 +1,3 @@
+{"userId":0,"recommendations":[{"itemId":0,"rating":3.9945982},{"itemId":1,"rating":1.999913},{"itemId":2,"rating":0.12897927}]}
+{"userId":1,"recommendations":[{"itemId":2,"rating":4.995789},{"itemId":1,"rating":2.9997072},{"itemId":0,"rating":0.16059384}]}
+{"userId":2,"recommendations":[{"itemId":2,"rating":1.1845568},{"itemId":1,"rating":0.9991199},{"itemId":0,"rating":0.6355793}]}
