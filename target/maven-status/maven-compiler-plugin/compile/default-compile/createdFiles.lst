@@ -1,0 +1,7 @@
+com\example\mlplatform\utils\SparkUtils.class
+com\example\mlplatform\offline\ClusteringJob.class
+com\example\mlplatform\offline\ClassificationJob.class
+com\example\mlplatform\offline\RecommendationJob.class
+com\example\mlplatform\Main.class
+com\example\mlplatform\streaming\RealtimeProcessor.class
+com\example\mlplatform\offline\RegressionJob.class
